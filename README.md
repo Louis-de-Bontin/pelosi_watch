@@ -7,8 +7,8 @@
 
 
 
-1. Create a virtual env `python3 -m venv venv`
-2. Activate the virtual env `source venv/bin/activate`
+1. Create a virtual env `python3 -m venv env`
+2. Activate the virtual env `source env/bin/activate`
 3. Install the requirements `pip install -r requirements.txt`
 4. Create a `.env` file with the following content:
 ```
