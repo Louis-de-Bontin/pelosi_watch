@@ -1,3 +1,6 @@
+##### Telegram: [Pelosi Watch](t.me/devfinanceros)
+##### Donations are welcome [bontin.eth](app.ens.domains/bontin.eth)
+
 # Watch Nancy Pelosi Stock Filings
 
 ### Set Up a Telegram Bot:
